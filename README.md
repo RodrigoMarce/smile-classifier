@@ -9,14 +9,18 @@ This project implements a step-wise ensemble classifier to detect smiles in 24×
 
 ## Dependencies
 Make sure you have the following Python libraries installed:  
-```pip install numpy matplotlib```
+```bash
+pip install numpy matplotlib
+```
 
 ## Run Instructions
 Run the main script to train and evaluate the model:  
-```python smile.py```
+```bash
+python smile.py
+```
 
 ## Visualizing the Learned Features
-![Face image](Figure_1.png)
+<img src="Figure_1.png" width="500">
 
 ## Training and Testing Accuracy
 | N    | Training Accuracy | Testing Accuracy |
