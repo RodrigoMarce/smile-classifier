@@ -43,7 +43,6 @@ def stepwiseRegression (trainingFaces, trainingLabels):
                             bestPredictor = (r1, c1, r2, c2)
         predictors.append(bestPredictor)
     print("Best Predictors" + str(predictors))
-    # (20, 7, 17, 7), (12, 5, 10, 13), (20, 17, 16, 17), (11, 19, 12, 12), (19, 11, 14, 7), (14, 5, 16, 6)]
     show = True
     if show:
         # Show an arbitrary test image in grayscale
