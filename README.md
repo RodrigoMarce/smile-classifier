@@ -15,6 +15,9 @@ Make sure you have the following Python libraries installed:
 Run the main script to train and evaluate the model:  
 ```python smile.py```
 
+## Visualizing the Learned Features
+![Face image](Figure_1.png)
+
 ## Training and Testing Accuracy
 | N    | Training Accuracy | Testing Accuracy |
 |------|------------------|------------------|
